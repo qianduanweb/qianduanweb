@@ -1,4 +1,3 @@
-body{color:red;}
-em{font-style:italic;}
-	i{font-weight:italic;}
-	b{font-weight:bold;}
+html{
+	font-size:12px;
+}
